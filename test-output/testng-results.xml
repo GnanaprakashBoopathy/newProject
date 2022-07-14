@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10494" started-at="2022-07-12T16:24:36Z" finished-at="2022-07-12T16:24:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7306" started-at="2022-07-12T16:24:36Z" finished-at="2022-07-12T16:24:43Z">
+      <class name="com.practicetestng.Practice1">
+        <test-method status="PASS" signature="test01(java.lang.String)[pri:0, instance:com.practicetestng.Practice1@598067a5]" name="test01" duration-ms="7252" started-at="2022-07-12T16:24:36Z" finished-at="2022-07-12T16:24:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.practicetestng.Practice1 -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="3140" started-at="2022-07-12T16:24:43Z" finished-at="2022-07-12T16:24:46Z">
+      <class name="com.practicetestng.Practice1">
+        <test-method status="PASS" signature="test01(java.lang.String)[pri:0, instance:com.practicetestng.Practice1@3159c4b8]" name="test01" duration-ms="3137" started-at="2022-07-12T16:24:43Z" finished-at="2022-07-12T16:24:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- com.practicetestng.Practice1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
